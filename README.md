@@ -12,7 +12,7 @@ In case you are using IntelliJ you can simply open this project in your IDE. (An
 In case you want to run this project in CLI, run:
 
 ```
-mvn exec:java -Dexec.mainClass="org.openjfx.App"
+mvn exec:java -Dexec.mainClass="org.openjfx.DavidsApp"
 
 ```
 

@@ -1,0 +1,20 @@
+.myButton {
+    -fx-background-color: -fx-color-tea-green;
+    -fx-border-color: -fx-color-light-blue;
+    -fx-border-width: 3;
+}
+
+
+.boarderPane {
+    -fx-background-color: linear-gradient(
+            #0004ff 10%,
+            #00caff 20%,
+            #00ffcc 30%,
+            #00ff4f 40%,
+            #9dff0b 50%,
+            #f2ff03 70%,
+            #ff5e00 80%,
+            #ff0012 90%,
+            #ff0049 100%);
+}
+
